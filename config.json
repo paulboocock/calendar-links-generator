@@ -1,0 +1,7 @@
+{
+  "title": "Event Title",
+  "description": "Event Description",
+  "start": "2020-05-22T18:00:00Z",
+  "location": "https://us02web.zoom.us/j/88114034194?pwd=NklzVjQ3WVBsMDVuZURGOTRJYmFuQT09",
+  "duration": [1, "hour"]
+}
